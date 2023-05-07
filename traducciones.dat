@@ -1,0 +1,186 @@
+asm
+ensamblar
+incrusta codigo fuente del lenguaje ensamblado en un programa
+auto
+automatico
+variable que no tiene tipo especifico
+bool
+booleano
+tipo de variable que permite tener el valor de 1 y 0. Sirve para realizar condiciones
+break
+romper
+instruccion de una sentencia para seguir con el codigo de abajo
+case
+caso
+se usa en una sentencia switch donde realiza un accion dependiendo el resultado
+catch
+atrapar
+atrapa un resultado de una funcion try realizando una accion cuando atrapa ese resultado
+char
+caracter
+representa un simbolo como un numero, letra, etc.
+class
+clase
+simboliza un molde en POO que representan funciones y metodos que representan un objeto
+const
+constante
+tipo de variable que su valor nunca cambia durante la ejecucion del programa
+const_cast
+constante de elenco
+sirve para eliminar o crear variables constante de un objeto en POO
+continue
+continuar
+continua con el codigo siguiente. Generalmente usado en las sentencias de repeticion
+default
+por defecto
+sentencia en switch cuando ninguno de los casos es activado/utilizado
+delete
+eliminar
+elimina el espacio de memoria de una variable que se esta utilizando de forma dinamica
+do
+hacer
+garantiza que una accion de una sentencia while se realiza por lo menos una vez
+double
+doble
+tipo de variable numerica que puede almacenar hasta 4 bytes de almacenamiento
+dynamic_cast
+elenco dinamico
+integra otro tipo de variable derivada
+else
+sino
+si la sentencia if no cumple su condicion, realiza una accion diferente
+enum
+enumeracion
+tipo de variable que asigna nombres a las constantes integrales
+explicit
+explicito
+se utiliza para marcar construcciones para no convertir tipos implicitamente
+extern
+externo
+variables globales en un programa
+false
+falso
+representacion escrita del valor cero, util para condiciones
+float
+flotante
+tipo de variable que representa numeros mas complejos como los decimales/grandes
+for
+para
+sentencia que repite una accion hasta que su condicion sea falsa
+friend
+amigo
+tipo de funcion que esta afuera de la clase pero que modificar los atributos de un objeto
+goto
+gotoxy
+transforma la pantalla de un plano que permite escribir en cualquier parte de la pantalla
+if
+si
+sentencia que representa una condicion que si resulta verdadera esta realiza una accion
+inline
+en linea
+tipo de funcion que realiza una copia de las variables que realiza su accion rapidamente
+int
+entero
+tipo de variable que representa los numeros enteros de 2 bytes
+long
+largo
+tipo de variable numerica que representa valores grandes y complejos
+mutable
+mutacion
+indica al compilador que aunque un atributo sea constante se pueda modificar
+namespace
+espacio nombre
+se utiliza para diferenciar de distintas funciones con el mismo nombre de diferentes librerias
+new
+nueva
+se utiliza para poder utilizar un arreglo de manera dinamica
+operator
+operador
+permite que el usuario pueda definir los tipos de operadores
+private
+privado
+sirve para agrupar atributos y metodos de manera que solo se accedan dentro de una clase
+protected
+protegido
+encapsula los atributos y metodos dentro de el para que no sean visibles en la funcionalidad de otras clases
+public
+publico
+agrupa metodos y atributos de manera que sean accesibles en cualquier lugar del programa
+register
+registrar
+indica al compilador que debe almacenar variables en el procesador en vez de la pila
+reinterpret_cast
+elenco reinterpretado
+permite transformar una variable de puntero de un tipo a una variable puntero de otro tipo
+return
+retornar
+devuelve un valor entre funciones y si el valor es cero termina la ejecucion
+short
+corto
+tipo de variable numerica que representa numeros menores a los del tipo int
+signed
+firmado
+define el valor de una variable numerica, puede ser positiva o negativa
+sizeof
+medida de
+retorna un valor entero equivalente a la cantidad de bytes que almacena una variable o cadena
+static
+estatico
+sirve para declarar miembros estaticos en una clase para mantener una variable estatica en la llamada de funciones
+static_cast
+elenco estatico
+convierte explicitamente tipos a objetos
+struct
+estructura
+conjunto de datos que permite su utilizacion en otras partes del programa
+switch
+segun
+sentencia de seleccion que realiza una accion dependiendo de sus condiciones
+template
+plantilla
+permite que las funciones de alguna clase puedan ser utlizadas en cualquier tipo de dato
+this
+esto
+se usa para referirse a un objeto que se esta utilizando en una funcion miembro
+throw
+arrojar
+retornador de una funcion try que permite realizar una accion de la funcion catch
+true
+verdadero
+valor booleano que representa uno
+try
+intentar
+funcion que puede retornar un valor con throw
+typedef
+definion tipo
+se utiliza para asignar un nombre alternativo a un tipo existente
+typeid
+id tipo
+determina el tipo de dato de una variable en ejecucion
+typename
+tipo nombre
+especifica que el identificador que sigue es un tipo en vez de una variable estatica
+union
+unificacion
+parecido a una estructura pero todos sus miembros se almacenan en el mismo espacio de memoria
+unsigned
+no firmado
+modifica o permite que cualquier numero entero sea almacenado sin su signo positivo o negativo, exceptuando bool
+using
+usando
+permite usar todos los nombres dentro de un namespace sin usar namespace name
+virtual
+virtual
+cuando se realiza referencia a un objeto de una clase derivada por referencia a la clase base se ejecuta la version 1
+void
+vacio
+solo realiza una accion pero no retorna ningun valor
+volatile
+volatil
+modificador a¤adido a una variable que alerta al compilador que esta puede ser alterada por background
+while
+mientas
+realiza una accion hasta que su condicion sea falsa
+cout
+escribir
+muestra en pantalla el texto que se ingreso
